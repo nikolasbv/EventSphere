@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1031931096220",
+    "project_id": "eventsphere-42550",
+    "storage_bucket": "eventsphere-42550.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031931096220:android:3731b78a632adff27c1159",
+        "android_client_info": {
+          "package_name": "com.antnikxar.eventsphere"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSQ_E4aZBQreT8IoutBiFj9qfr7wkMuzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
