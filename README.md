@@ -70,13 +70,13 @@ For detailed setup and installation instructions, refer to the documentation pro
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/ntua-el20167/Eventsphere.git
+git clone https://github.com/nikolasbv/EventSphere.git
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd Eventsphere
+cd EventSphere
 ```
 
 Install the required Flutter packages specified in `pubspec.yaml`:
